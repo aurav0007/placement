@@ -36,6 +36,7 @@ using namespace std;
         cur->pre = flag;
         t = cur;
         cur = cur->pre;
+        //hey gaurav how are you
     }
     return t;
  }
@@ -44,7 +45,9 @@ using namespace std;
     while(h != NULL)
     {
         cout<<h->data;
+        int ch =0;
         h= h->next;
+        ///wht is going
     }
     cout<<endl;
     // h = temp;
